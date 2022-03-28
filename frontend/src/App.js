@@ -15,7 +15,7 @@ const App = () => {
 
       <main>
         <Mint accounts={accounts} setAccounts={setAccounts} />
-        <p>View NFT collection here - <a href="https://testnets.nftrade.com/assets/fuji/0xe1975d27c0edcb80431f5e384d888c28ff5e609d" rel="noreferrer" target="_blank">NFT Trade</a></p>
+        <p>View NFT collection here - <a href="https://opensea.io/collection/polydao-official" rel="noreferrer" target="_blank">OpenSea</a></p>
       </main>
     </div>
   );
